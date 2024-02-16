@@ -1,0 +1,27 @@
+*{
+margin: 0%;
+pading:0;
+box-sizing: border-box;
+}*
+
+.card1{
+    width: 20%;
+}
+.card2{
+    width: 20%;
+}
+.card3{
+    width: 20%;
+}
+.card4{
+    width: 20%;
+}
+.card5{
+    width: 20%;
+}
+
+
+ .card{
+    display: flex;
+    align-items: center;
+ }
